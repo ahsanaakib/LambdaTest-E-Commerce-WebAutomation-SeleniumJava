@@ -1,0 +1,18 @@
+18:38:18.204 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Logging in with email: tarah.hahn@gmail.com, password: NJ#w@2EOw$8
+18:38:18.220 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Expected Page Title: My Account, Actual Page Title: My Account
+18:45:59.538 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml"
+18:45:59.977 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml
+
+18:46:21.011 [main] INFO  testCases.TC001_UserRegistrationWithValidData - User Details - FirstName: Timothy, LastName: Toy, Email: assunta.rogahn@gmail.com, Password: taAvYg7Hi!
+18:46:21.048 [main] INFO  testCases.TC001_UserRegistrationWithValidData - Success message displayed: Your Account Has Been Created!
+18:46:31.243 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Logging in with email: assunta.rogahn@gmail.com, password: taAvYg7Hi!
+18:46:31.253 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Expected Page Title: My Account, Actual Page Title: My Account
+18:50:17.975 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml"
+18:50:18.423 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml
+
+18:50:32.287 [main] INFO  testCases.TC001_UserRegistrationWithValidData - User Details - FirstName: Johnna, LastName: Marvin, Email: elinore.dach@gmail.com, Password: d3$6kP05
+18:50:32.327 [main] INFO  testCases.TC001_UserRegistrationWithValidData - Success message displayed: Your Account Has Been Created!
+18:50:43.719 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Logging in with email: elinore.dach@gmail.com, password: d3$6kP05
+18:50:43.731 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Expected Page Title: My Account, Actual Page Title: My Account

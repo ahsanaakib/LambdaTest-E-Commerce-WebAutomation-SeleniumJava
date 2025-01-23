@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-23T18:50:18 BDT" name="Master Suite" finished-at="2025-01-23T18:50:43 BDT" duration-ms="25489">
+    <groups>
+      <group name="master">
+        <method signature="TC001_UserRegistrationWithValidData.verify_UserRegistrationWithValidData()[pri:0, instance:testCases.TC001_UserRegistrationWithValidData@11eadcba]" name="verify_UserRegistrationWithValidData" class="testCases.TC001_UserRegistrationWithValidData"/>
+        <method signature="TC002_UserLoginWithRegisteredCredentials.verify_UserLoginWithRegisteredCredentials()[pri:0, instance:testCases.TC002_UserLoginWithRegisteredCredentials@62dae540]" name="verify_UserLoginWithRegisteredCredentials" class="testCases.TC002_UserLoginWithRegisteredCredentials"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2025-01-23T18:50:18 BDT" name="Test" finished-at="2025-01-23T18:50:43 BDT" duration-ms="25489">
+      <class name="testCases.TC001_UserRegistrationWithValidData">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_UserRegistrationWithValidData@11eadcba]" started-at="2025-01-23T18:50:18 BDT" name="setup" finished-at="2025-01-23T18:50:25 BDT" duration-ms="6483" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_UserRegistrationWithValidData()[pri:0, instance:testCases.TC001_UserRegistrationWithValidData@11eadcba]" started-at="2025-01-23T18:50:25 BDT" name="verify_UserRegistrationWithValidData" finished-at="2025-01-23T18:50:32 BDT" duration-ms="7135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_UserRegistrationWithValidData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_UserRegistrationWithValidData@11eadcba]" started-at="2025-01-23T18:50:32 BDT" name="tearDown" finished-at="2025-01-23T18:50:32 BDT" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_UserRegistrationWithValidData -->
+      <class name="testCases.TC002_UserLoginWithRegisteredCredentials">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_UserLoginWithRegisteredCredentials@62dae540]" started-at="2025-01-23T18:50:32 BDT" name="setup" finished-at="2025-01-23T18:50:38 BDT" duration-ms="5971" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_UserLoginWithRegisteredCredentials()[pri:0, instance:testCases.TC002_UserLoginWithRegisteredCredentials@62dae540]" started-at="2025-01-23T18:50:38 BDT" name="verify_UserLoginWithRegisteredCredentials" finished-at="2025-01-23T18:50:43 BDT" depends-on-methods="testCases.TC001_UserRegistrationWithValidData.verify_UserRegistrationWithValidData" duration-ms="5192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_UserLoginWithRegisteredCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_UserLoginWithRegisteredCredentials@62dae540]" started-at="2025-01-23T18:50:43 BDT" name="tearDown" finished-at="2025-01-23T18:50:43 BDT" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_UserLoginWithRegisteredCredentials -->
+    </test> <!-- Test -->
+  </suite> <!-- Master Suite -->
+</testng-results>

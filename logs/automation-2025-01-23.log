@@ -1,0 +1,46 @@
+12:16:08.354 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml"
+12:16:08.848 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml
+
+12:16:26.966 [main] INFO  testCases.TC001_UserRegistrationWithValidData - User Details - FirstName: Maynard, LastName: Rohan, Email: micheal.okon@gmail.com, Password: Ob^Z%iNHaHycmL
+12:16:26.999 [main] INFO  testCases.TC001_UserRegistrationWithValidData - Success message displayed: Your Account Has Been Created!
+12:16:42.534 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Logging in with email: micheal.okon@gmail.com, password: Ob^Z%iNHaHycmL
+12:16:42.545 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Expected Page Title: My Account, Actual Page Title: My Account
+15:44:26.908 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml"
+15:44:27.323 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml
+
+15:44:47.935 [main] INFO  testCases.TC001_UserRegistrationWithValidData - User Details - FirstName: Marlo, LastName: Senger, Email: tempie.koelpin@gmail.com, Password: 3B1u7S96JP$2
+15:44:47.965 [main] INFO  testCases.TC001_UserRegistrationWithValidData - Success message displayed: Your Account Has Been Created!
+15:45:05.407 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Logging in with email: tempie.koelpin@gmail.com, password: 3B1u7S96JP$2
+15:45:05.419 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Expected Page Title: My Account, Actual Page Title: My Account
+15:52:24.676 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml"
+15:52:25.100 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml
+
+15:52:51.171 [main] INFO  testCases.TC001_UserRegistrationWithValidData - User Details - FirstName: Karole, LastName: Stoltenberg, Email: lona.bauch@gmail.com, Password: IsG02535oPyv0
+15:52:51.208 [main] INFO  testCases.TC001_UserRegistrationWithValidData - Success message displayed: Your Account Has Been Created!
+15:53:21.595 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Logging in with email: lona.bauch@gmail.com, password: IsG02535oPyv0
+15:53:21.608 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Expected Page Title: My Account, Actual Page Title: My Account
+15:55:52.746 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml"
+15:55:53.258 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml
+
+15:56:22.768 [main] INFO  testCases.TC001_UserRegistrationWithValidData - User Details - FirstName: Terry, LastName: Abbott, Email: frederic.hagenes@gmail.com, Password: ZoU&#Fb!G1gQz
+15:56:22.800 [main] INFO  testCases.TC001_UserRegistrationWithValidData - Success message displayed: Your Account Has Been Created!
+15:56:38.666 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Logging in with email: frederic.hagenes@gmail.com, password: ZoU&#Fb!G1gQz
+15:56:38.679 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Expected Page Title: My Account, Actual Page Title: My Account
+16:00:05.397 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml"
+16:00:05.858 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml
+
+16:00:22.730 [main] INFO  testCases.TC001_UserRegistrationWithValidData - User Details - FirstName: Nick, LastName: Rau, Email: leslie.marks@gmail.com, Password: #IqM#nR1bCF^*F
+16:00:22.766 [main] INFO  testCases.TC001_UserRegistrationWithValidData - Success message displayed: Your Account Has Been Created!
+16:00:37.967 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Logging in with email: leslie.marks@gmail.com, password: #IqM#nR1bCF^*F
+16:00:37.978 [main] INFO  testCases.TC002_UserLoginWithRegisteredCredentials - Expected Page Title: My Account, Actual Page Title: My Account
+18:37:34.314 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml"
+18:37:34.740 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\eclipse-workspace\LambdaTest-E-Commerce-WebAutomation\master.xml
+
+18:37:58.387 [main] INFO  testCases.TC001_UserRegistrationWithValidData - User Details - FirstName: Don, LastName: Kulas, Email: tarah.hahn@gmail.com, Password: NJ#w@2EOw$8
+18:37:58.419 [main] INFO  testCases.TC001_UserRegistrationWithValidData - Success message displayed: Your Account Has Been Created!
